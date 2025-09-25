@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"g62588.dev3.oxono.console"},{"l":"g62588.dev3.oxono.controller"},{"l":"g62588.dev3.oxono.model"},{"l":"g62588.dev3.oxono.model.commands"},{"l":"g62588.dev3.oxono.model.event"},{"l":"g62588.dev3.oxono.view"}];updateSearchResults();
