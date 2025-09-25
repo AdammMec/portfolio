@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="062bab23-1cc6-4ea0-91e1-cf7fddcbecb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/BoardTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/console/OxonoConsole.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/console/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/console/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/controller/OxonoController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/controller/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/controller/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Board.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/BoardTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/BotMove.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/EventBuilder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/GameState.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/GameTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Observable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Observer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Pawn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Player.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/PlayerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Symbole.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Token.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/Totem.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/commands/Command.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/commands/CommandManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/commands/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/commands/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/EndGameEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/Event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/PawnEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/SelectTotemEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/StartGameEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/TotemEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/event/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/model/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/BoardView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/EndGameView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/HandView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/MainView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/MenuView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/g62588/dev3/oxono/view/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resource-files/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-files/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-files/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-files/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-files/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script-files/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/console/OxonoConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/controller/OxonoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/BotMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/EndGameCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/EventBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/InsertPawnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/MoveTotemCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Observable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Pawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/SelectTotemCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Symbole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/Totem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/commands/CommandManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/EndGameEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/PawnEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/SelectTotemEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/StartGameEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/model/event/TotemEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/view/BoardView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/view/EndGameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/view/HandView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/view/MainView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g62588/dev3/oxono/view/MenuView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/BlackO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/BlackX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/PinkO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/PinkX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/TotemO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/TotemX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g62588/dev3/oxono/model/BoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g62588/dev3/oxono/model/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g62588/dev3/oxono/model/PlayerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/22.0.1/javafx-graphics-22.0.1-linux.jar!/javafx/application/Application.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vlaKKAj1OMMRNOFuZawOCbGDz7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.OxonoConsole.executor": "Run",
+    "JUnit.All in oxono-g62588.executor": "Run",
+    "Maven.oxono-g62588 [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.oxono-g62588 [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/adam/Documents/2025-2026/5ETE/portfolio",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.OxonoConsole">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="oxono-g62588" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OxonoConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g62588.dev3.oxono.console.OxonoConsole" />
+      <module name="oxono-g62588" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g62588.dev3.oxono.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in oxono-g62588" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oxono-g62588" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OxonoConsole" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in oxono-g62588" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="062bab23-1cc6-4ea0-91e1-cf7fddcbecb4" name="Changes" comment="" />
+      <created>1744722050637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744722050637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
